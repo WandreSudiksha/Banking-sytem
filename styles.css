@@ -1,0 +1,36 @@
+body{ 
+  background-color: black no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  
+}
+.nav-items .navbar-nav .active .nav-links {
+  color: #ff0000;
+}
+.panel{
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.panel-body {
+    padding: 15px;
+}
+button{
+  border-radius: 10px;
+  font-weight: bold;
+}
+.tb{
+  background-color: #E75480;
+}
+.close{
+   color:white;
+}
+.modal-header{
+  background-color:#000;
+  color: #FFF;
+}
+
